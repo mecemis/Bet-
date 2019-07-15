@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>27846133002-3dc290u6a010emo0vck1p3f170e8cj88.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.27846133002-3dc290u6a010emo0vck1p3f170e8cj88</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCX01LEJfDdmeuqp0inbQSlSp4DW2_ANeI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>27846133002</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.murat.BetPlus</string>
+	<key>PROJECT_ID</key>
+	<string>bet-plus-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bet-plus-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:27846133002:ios:28691dd2479ac114</string>
+	<key>DATABASE_URL</key>
+	<string>https://bet-plus-app.firebaseio.com</string>
+</dict>
+</plist>
